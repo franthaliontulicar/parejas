@@ -1,10 +1,7 @@
 #BlueJ class context
 comment0.params=
 comment0.target=Emparejamiento()
-comment1.params=alumno
-comment1.target=void\ a\u00F1adirAlumnos(Alumno)
-comment2.params=alumno
-comment2.target=void\ mostrarAlumnos(Alumno)
-comment3.params=
-comment3.target=void\ seleccionarGrupo()
-numComments=4
+comment1.params=
+comment1.target=void\ emparejar()
+comment1.text=\r\n\ M\u00E9todo\ que\ empareja\ a\ los\ alumnos\ de\ 2\ en\ 2;\ si\ son\r\n\ impares\ la\ ultima\ pareja\ tiene\ 3\ miembros\r\n
+numComments=2

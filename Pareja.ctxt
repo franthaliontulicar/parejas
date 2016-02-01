@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=Pareja(java.lang.String)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ Pareja\r\n
+comment1.params=
+comment1.target=void\ imprimePareja()
+comment1.text=\r\n\ Imprime\ por\ pantalla\ los\ detalles\ de\ la\ pareja\r\n
+comment2.params=nombre
+comment2.target=void\ addMiembro(java.lang.String)
+comment2.text=\r\n\ A\u00F1ade\ a\ la\ pareja\ el\ miembro\ dado\ como\ parametro\ \r\n
+numComments=3
