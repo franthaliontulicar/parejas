@@ -51,6 +51,24 @@ public class Emparejamiento
         }
 
     }
+    
+    public void imprimePareja(String codigo) 
+	{
+		int index = 0;
+		boolean elementoEncontrado = false;
+		
+		while(index < parejas.size() && !elementoEncontrado) {
+			if (parejas.get(index).getId().equals(codigo)){
+				parejas.get(index).imprimePareja();
+				elementoEncontrado = true;
+			}
+			index++;
+		}
+		
+		if (!elementoEncontrado) {
+			System.out.println("Pareja no encontrada");
+		}
+	}
 
 
 }

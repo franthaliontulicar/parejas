@@ -34,4 +34,8 @@ public class Pareja
 	{
 		miembros.add(nombre);
 	}
+	
+	public String getId(){
+	   return id;
+	   }
 }
